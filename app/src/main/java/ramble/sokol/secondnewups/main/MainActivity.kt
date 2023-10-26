@@ -11,7 +11,7 @@ import androidx.compose.runtime.Composable
 import androidx.compose.ui.Modifier
 import androidx.compose.ui.tooling.preview.Preview
 import com.ramcosta.composedestinations.DestinationsNavHost
-import ramble.sokol.secondnewups.auth.view.NavGraphs
+import ramble.sokol.secondnewups.NavGraphs
 import ramble.sokol.secondnewups.ui.theme.SecondNewUPSTheme
 
 class MainActivity : ComponentActivity() {

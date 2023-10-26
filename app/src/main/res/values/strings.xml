@@ -1,3 +1,14 @@
 <resources>
     <string name="app_name">SecondNewUPS</string>
+    <string name="text_welcome_start">Добро пожаловать в</string>
+    <string name="text_keepfoód">keepfoód</string>
+    <string name="text_description_start">Получайте каждый день уникальный рецепт, готовьте, наслаждайтесь.</string>
+    <string name="text_button_entry_email">Войти через Email</string>
+    <string name="text_no_account">Нет аккаунта?</string>
+    <string name="text_go_to_reg">Зарегистрируйтесь!</string>
+    <string name="text_stub">Заглушка) В разработке!</string>
+    <string name="text_next_with">Продолжить через </string>
+    <string name="text_entry">Войти</string>
+    <string name="text_email">Email</string>
+    <string name="text_input_password">Введите пароль</string>
 </resources>
